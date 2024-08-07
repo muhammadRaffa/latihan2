@@ -570,3 +570,4 @@ class Eaglerun extends Eagle {
 const myEaglerun = new Eaglerun("elang", 5, true, 220);
 console.log(myEaglerun);
 myEaglerun.runEagle();
+//rumahputih31
